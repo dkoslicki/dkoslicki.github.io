@@ -19,6 +19,6 @@ Important links:
 
 <a href="https://www.dropbox.com/s/eulgxwbn4ikxjvh/TeXCV.pdf?dl=0">Curriculum Vitae (pdf)</a>
   |  <a href="https://scholar.google.com/citations?user=Oz90sQsAAAAJ&hl=en">Google Scholar</a>
-  |  <a href="https://github.com/dkoslickitwi">GitHub</a>
+  |  <a href="https://github.com/dkoslicki">GitHub</a>
   |  <a href="https://twitter.com/DavidKoslicki">Twitter</a>
 
