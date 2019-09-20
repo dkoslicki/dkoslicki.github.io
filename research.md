@@ -4,7 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-# Research
 I'm a computational biologist who is interested in developing mathematically sound approaches to the analysis of high-throughput DNA sequencing data. I often employs probabilistic and optimization techniques to facilitate the analysis of such data. You can take a look at my publications for a more detailed look at the kind of research I do.
 
 On the theoretical side, my research interests include:

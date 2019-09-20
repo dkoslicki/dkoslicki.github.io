@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 Here you will find a reverse chronological list of all my publications. 
-{: reversed="reversed"}
+
 0. Assessing taxonomic metagenome profilers with OPAL
 
     Fernando Meyer, Andreas Bremges, Peter Belmann, Stefan Janssen, Alice C. McHardy†... , Genome Biology , Monday, March 4, 2019
@@ -249,5 +249,5 @@ Here you will find a reverse chronological list of all my publications.
     Journal article
     
     arXiv link
-
+{: reversed="reversed"}
 
