@@ -238,8 +238,7 @@ Here you will find a reverse chronological list of all my publications.
     
     Penn State Dissertation Repository
     
-    Dissertation link
-    
+    Dissertation link    
     Topological entropy of DNA sequences
     
     David Koslicki , Oxford Journal of Bioinformatics , Monday, February 21, 2011
