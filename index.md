@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<p style="padding: 0px;"> <img style="float: right;" src="Cropped.jpeg"> </p> 
+<p style="padding: 0px;"> <img style="float: right;" src="Cropped.jpeg" width="200"> </p> 
 
 I am a computational biologist interested in developing mathematically sound approaches to the analysis of high-throughput 
 DNA sequencing data. To do this, I utilize and develop techniques from the fields of probability, compressed sensing, and 
