@@ -12,7 +12,7 @@ Here you will find a reverse chronological list of all my publications.
 
     We introduce a framework to compare tools utilized to determine what microbes are present in a sample, and at what relative abundance. This will help computational biologists design better tools to analyze communities of microorganisms (which affect nearly everything in existence!).
     
-    Journal publication </br>
+    Journal publication <br />
     Preprint
     Github repository
 
